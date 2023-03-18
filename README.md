@@ -1,2 +1,6 @@
 # CarAI
-Car Machine Learning AI
+Car with Machine Learning AI
+
+Dependencies:
+Pygame
+Numpy
